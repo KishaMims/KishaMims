@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @KishaMims
+- 👋🏾 Hi, I’m NeKisha - @KishaMims
 - 👀 I’m interested in learning tools to become a better software engineer. 
 - 🌱 I’m currently learning Javascript. 
 - 📨 How to reach me: mimsn.denise@gmail.com 
